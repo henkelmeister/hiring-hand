@@ -1,0 +1,6 @@
+/config/db.mjs
+/config/server.mjs
+/log
+/node_modules
+/public
+yarn-error.log

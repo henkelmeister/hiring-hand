@@ -1,0 +1,9 @@
+{
+  "watch": [
+    "config/*",
+    "node_modules/*",
+    "server/*",
+    "knexfile.mjs",
+    "package.json"
+  ]
+}
